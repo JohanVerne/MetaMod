@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "2025-10-07T11:33:56.144255+02:00",
+	"super" : "Object",
+	"category" : "MetaMod",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nom",
+		"prenom",
+		"age"
+	],
+	"name" : "Personne",
+	"type" : "normal"
+}
